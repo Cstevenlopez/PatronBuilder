@@ -1,1 +1,6 @@
+org\steven\CarbonaraPizzaBuilder.class
 org\steven\App.class
+org\steven\Pizza.class
+org\steven\Cocinero.class
+org\steven\PizzaBuilder.class
+org\steven\BarbacoaPizzaBuilder.class
